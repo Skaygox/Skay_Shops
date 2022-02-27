@@ -6,6 +6,6 @@
 
 [Shops en RageUI]
 
-[Preview] : https://youtu.be/vgbwontxjhI
+[Preview] : https://www.youtube.com/watch?v=3p0nQL_wpJk
 
 [download] : https://github.com/Skaygox/Skay_Shops
