@@ -8,4 +8,4 @@
 
 [Preview] : https://youtu.be/vgbwontxjhI
 
-[download] : https://github.com/Skaygox/Skay_Shops.git
+[download] : https://github.com/Skaygox/Skay_Shops
